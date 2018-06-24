@@ -1,0 +1,6 @@
+C:\Users\user\ToyRobotJyo\ToyRobotJyo\bin\Debug\ToyRobotJyo.exe.config
+C:\Users\user\ToyRobotJyo\ToyRobotJyo\bin\Debug\ToyRobotJyo.exe
+C:\Users\user\ToyRobotJyo\ToyRobotJyo\bin\Debug\ToyRobotJyo.pdb
+C:\Users\user\ToyRobotJyo\ToyRobotJyo\obj\Debug\ToyRobotJyo.csproj.CoreCompileInputs.cache
+C:\Users\user\ToyRobotJyo\ToyRobotJyo\obj\Debug\ToyRobotJyo.exe
+C:\Users\user\ToyRobotJyo\ToyRobotJyo\obj\Debug\ToyRobotJyo.pdb
